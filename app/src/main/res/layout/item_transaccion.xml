@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal" android:layout_width="match_parent"
+    android:layout_height="45dp">
+
+    <TextView
+        android:text="id"
+        android:textSize="20dp"
+
+        android:id="@+id/tvID"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        />
+    <TextView
+        android:text="3.4"
+        android:textSize="20dp"
+        android:layout_marginStart="5dp"
+        android:id="@+id/tvValorTipoCambio"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        />
+    <TextView
+        android:text="100.0"
+        android:textSize="20dp"
+        android:layout_marginLeft="20dp"
+        android:id="@+id/tvEnvio"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        />
+    <TextView
+        android:text="100.0"
+        android:textSize="20dp"
+        android:layout_marginLeft="20dp"
+
+        android:id="@+id/tvRecibe"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        />
+    <TextView
+        android:text="SOLES A DOLARES"
+        android:textSize="15sp"
+        android:layout_marginLeft="20dp"
+
+        android:id="@+id/tvMonedaCambio"
+        android:layout_width="70dp"
+        android:layout_height="wrap_content"
+        />
+
+    <TextView
+        android:text="P"
+        android:textSize="15sp"
+        android:layout_marginLeft="20dp"
+
+        android:id="@+id/tvEstado"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        />
+    <TextView
+        android:text="2019-05-15"
+        android:textSize="15sp"
+        android:layout_marginLeft="20dp"
+
+        android:id="@+id/tvFecha"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        />
+</LinearLayout>

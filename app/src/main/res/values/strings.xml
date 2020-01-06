@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LlerenaHuayta-17100648</string>
+    <string name="iniciarSesion">INICIAR SESIÓN</string>
+    <string name="btnIngresar">INGRESAR</string>
+    <string name="txtTitulo">LISTADO DE TRANSACCIONES</string>
+    <string-array name="spiner">
+        <item>SELECCIONE</item>
+        <item>SOLES A DÓÑARES</item>
+        <item>DÓLARES A SOLES</item>
+    </string-array>
+</resources>
